@@ -8,3 +8,4 @@ En el siguiente link puede abrir la competencia que se esta usando https://www.k
 luego de tener descargados los datos, se procede a abrir el notebook en el google colab, después de esto se le da en el icono de la carpeta que está a la izquierda para empezar a subir cada uno de los archivos descargados, una vez subido estos archivos puede empezar a ejecutar el notebook sin inconveniente alguno. 
 
 En el siguiente link podra observar el video 1 de la presentación del proyecto parte 2
+https://www.youtube.com/watch?v=uur1yE7XrRA
