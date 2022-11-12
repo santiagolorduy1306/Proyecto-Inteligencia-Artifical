@@ -10,4 +10,4 @@ luego de tener descargados los datos, se procede a abrir el notebook en el googl
 En el siguiente link podra observar el video 1 de la presentación del proyecto parte 2
 https://www.youtube.com/watch?v=uur1yE7XrRA
 
-abrir el notebook 
+abrir el notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santiagolorduy1306/Proyecto-Inteligencia-Artifical/blob/main/01_NotebookFinal.ipynb)
