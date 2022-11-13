@@ -8,4 +8,7 @@ Lo que tiene que hacer para ejecutar el codigo correctamente es descargar su kag
 En el siguiente link podra observar el video 1 de la presentación del proyecto parte 2
 https://www.youtube.com/watch?v=uur1yE7XrRA
 
+En el siguiente linnk podra observar el video final de la presentacion del proyecto 
+https://youtu.be/glXPW-2_Pls
+
 abrir el notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santiagolorduy1306/Proyecto-Inteligencia-Artifical/blob/main/01_NotebookFinal.ipynb)
